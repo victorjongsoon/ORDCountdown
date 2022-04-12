@@ -5,7 +5,7 @@
 <img src="https://github.com/victorjongsoon/ORDCountdown/blob/main/img/datepicker.jpeg" width="320" height="600" />
 
 # What can be improved in this project?
-1. To indicate how many leaves day they have left
+1. To indicate how many leave days they have left
 2. To place an widget in the homescreen/lockscreen
 3. To indicate notes/important dates in the application
 
