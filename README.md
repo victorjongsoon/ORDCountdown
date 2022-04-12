@@ -1,7 +1,7 @@
 # ORD Countdown Android Application
 <img src="https://github.com/victorjongsoon/ORDCountdown/blob/main/img/ordcountdownapp.jpeg" width="320" height="600" />
 
-# Date Picker 
+# Date Picker (Select your ORD date)
 <img src="https://github.com/victorjongsoon/ORDCountdown/blob/main/img/datepicker.jpeg" width="320" height="600" />
 
 # What can be improved in this project?
