@@ -10,7 +10,7 @@
 3. To indicate notes/important dates in the application
 
 # New skillsets learnt
-1.[Countdown View by iwgang](https://github.com/iwgang/CountdownView)
+1. [Countdown View by iwgang](https://github.com/iwgang/CountdownView)
 
 
  
